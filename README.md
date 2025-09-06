@@ -1,12 +1,12 @@
 ## Overview
 
-This is a first project where i submit to github also learning how to use basic github tools. This is not the best README that i write, but try my best to explain what this project is about and how i approach the solution.
+This is my first project submitted to GitHub, where I'm also learning how to use basic GitHub tools. This may not be the best README I've written, but I’ve tried my best to explain what this project is about and how I approached the solution.
 
 ### The challenge
 
-This is just a basic social links profile with multiple link buttons:
+This is a basic social links profile with multiple link buttons:
 
-- When the user hover over button, the green background color appear.
+- When the user hovers over a button, a green background color appears.
 
 ### Screenshot
 
@@ -22,18 +22,18 @@ This is just a basic social links profile with multiple link buttons:
 
 ### What I learned
 
-The first thing i learn is how to use google font with css font rule @font-face with different kind of font weight apply on css:
+The first thing I learned was how to use Google Fonts with the CSS @font-face rule, applying different font weights:
 ```css
 @font-face {
     font-family: "interfont";
     src: url("./assets/fonts/static/Inter-Regular.ttf") format("truetype");
 }
 ```
-I really don't remember what is @font-face syntax so i read from mdn website. 
+I didn’t remember the exact @font-face syntax, so I referred to the MDN documentation.
 
-Not using any grid or flex to sort the layout just the basic block and unordered list for buttons, using all the colors according to the instruction. 
+I didn’t use grid or flexbox for layout—just basic block elements and an unordered list for the buttons, following the color instructions provided.
 
-When the users hover the cursor over the button, it will be a 0.5s delay animation the way button background changes it color from normal to green where i'm using transition property:
+When users hover over a button, there's a 0.5s delay animation where the background color transitions from its default to green. I used the transition property for this effect:
 
 ```css
 li a {
@@ -41,11 +41,11 @@ li a {
 }
 ```
 
-For the image size, i'm using scale function resize half of it's original size.
+For the image size, I used the scale() function to resize it to half of its original size.
 
 ### Continued development
 
-There's so much more to learn html & CSS especially how to use grid and flex for layout.
+There's still a lot to learn in HTML and CSS, especially how to use grid and flexbox for layout.
 
 ### Useful resources
 
