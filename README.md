@@ -10,11 +10,7 @@ This is just a basic social links profile with multiple link buttons:
 
 ### Screenshot
 
-![](.socialLinkPreview.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+![preview of the page](https://github.com/rizard1/social_link_profile/blob/main/socialLinkPreview.PNG)
 
 ### Built with
 
